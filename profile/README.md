@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/assets/logo-white.png">
-  <source media="(prefers-color-scheme: light)" srcset="profile/assets/logo-color.png">
-  <img alt="Sole Capital" src="profile/assets/logo-color.png" width="380">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoleCapital/.github/main/profile/assets/logo-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoleCapital/.github/main/profile/assets/logo-color.png">
+  <img alt="Sole Capital" src="https://raw.githubusercontent.com/SoleCapital/.github/main/profile/assets/logo-color.png" width="380">
 </picture>
 
 <br><br>
